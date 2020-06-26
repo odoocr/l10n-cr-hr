@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 {
     'name': 'Costa Rica Payroll',
     'version': '12.0.1.0',

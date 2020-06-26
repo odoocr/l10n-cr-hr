@@ -22,7 +22,7 @@
     </record>
 
     <record id="hr_rule_renta" model="hr.salary.rule">
-        <field name="name">Impuesto sobre al renta</field>
+        <field name="name">Impuesto sobre la renta</field>
         <field name="sequence" eval="130"/>
         <field name="code">RENTA</field>
         <field name="category_id" ref="hr_payroll.DED"/>

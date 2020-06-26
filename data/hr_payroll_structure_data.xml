@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <odoo>
 
-     <record id="hr_payroll_salary_structure_general" model="hr.payroll.structure">
+    <record id="hr_payroll_salary_structure_general" model="hr.payroll.structure">
         <field name="code">GENERAL</field>
         <field name="name">Salario General</field>
         <field eval="[(6, 0, [
