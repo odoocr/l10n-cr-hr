@@ -1,5 +1,6 @@
 {
     'name': 'Costa Rica Payroll',
+    'version': '12.0.1.0',
     'category': 'Human Resources',
     'author': 'The nice people at odoocr',
     'depends': ['hr_payroll'],
