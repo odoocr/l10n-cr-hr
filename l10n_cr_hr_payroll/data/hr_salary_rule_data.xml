@@ -29,10 +29,10 @@
         <field name="condition_select">none</field>
         <field name="amount_select">code</field>
         <field name="amount_python_compute">           
-tramos = [ {'tasa':25, 'base':4325000},
-           {'tasa':20, 'base':2163000},
-           {'tasa':15, 'base':1233000},
-           {'tasa':10, 'base':840000}  ]
+tramos = [ {'tasa':25, 'base':4337000},
+           {'tasa':20, 'base':2169000},
+           {'tasa':15, 'base':1236000},
+           {'tasa':10, 'base':842000}  ]
 
 salario = categories.GROSS
 impuesto = 0.0
