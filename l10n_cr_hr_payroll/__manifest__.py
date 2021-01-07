@@ -1,15 +1,17 @@
 # -*- coding: utf-8 -*-
 {
     'name': 'Costa Rica Payroll',
-    'version': '12.0.1.0',
+    'version': '12.0.1.0.1',
     'category': 'Human Resources',
-    'author': 'The nice people at odoocr',
-    'depends': ['hr_payroll'],
+    'author': 'Odoo CR Team',
+    'depends': [
+        'hr_payroll',
+        ],
     'description': """
 Costa Rica Payroll Rules.
 =====================
-    - Configuration of hr_payroll for Costa Rica localization
-    - All main contributions rules for Costa Rica payslip'
+    - Configuration of hr_payroll for Costa Rica localization.
+    - All main contributions rules for Costa Rica payslip.
 
     """,
     'data': [

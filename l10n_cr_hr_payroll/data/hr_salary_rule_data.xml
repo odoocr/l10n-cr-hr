@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<odoo>
+<odoo nopudate="1">
 
     <record id="hr_rule_ccss" model="hr.salary.rule">
         <field name="name">Caja Costarricense de Seguro Social</field>
@@ -28,8 +28,7 @@
         <field name="category_id" ref="hr_payroll.DED"/>
         <field name="condition_select">none</field>
         <field name="amount_select">code</field>
-        <field name="amount_python_compute">
-# https://www.hacienda.go.cr/noticias/15419-hacienda-actualiza-tramos-del-impuesto-al-salario-para-el-2020            
+        <field name="amount_python_compute">           
 tramos = [ {'tasa':25, 'base':4325000},
            {'tasa':20, 'base':2163000},
            {'tasa':15, 'base':1233000},
