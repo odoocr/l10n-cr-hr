@@ -11,7 +11,6 @@
     'depends': [
         'hr_payroll',
     ],
-
     'data': [
         'data/hr_salary_rule_data.xml',
         'data/hr_payroll_structure_data.xml'
