@@ -7,7 +7,7 @@
     'license': 'AGPL-3',
     'installable': True,
     'application': False,
-    'sumary': 'Costa Rica Payroll Rules'
+    'sumary': 'Costa Rica Payroll Rules',
     'depends': [
         'hr_payroll',
     ],
