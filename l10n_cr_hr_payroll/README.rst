@@ -1,6 +1,6 @@
-=====================
-HR Costa Rica Payroll
-=====================
+==================================
+Human Resourses Costa Rica Payroll
+==================================
 
 
 This module allows to add payroll rules according to Costa Rica law:
