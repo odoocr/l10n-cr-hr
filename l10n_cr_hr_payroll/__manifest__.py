@@ -3,7 +3,7 @@
     'name': 'Costa Rica Payroll',
     'version': '12.0.1.0.1',
     'category': 'Human Resources',
-    'author': 'Odoo CR Team',
+    'author': 'Odoo CR Team, Odoo Community Association (OCA)',
     'license': 'AGPL-3',
     'installable': True,
     'application': False,
